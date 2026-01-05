@@ -13,7 +13,7 @@ I specialize in modeling and simulating power systems to solve challenges in gri
 ---
 
 ### 📊 Featured Project
-#### [5-Bus Power Flow Solver](LINK_TO_YOUR_PROJECT_HERE)
+#### [5-Bus Power Flow Solver](https://github.com/Revael20/5-Bus-Power-Flow-Solve)
 A custom-built MATLAB engine designed to simulate power flow in a 5-bus network. 
 - **Key Highlight:** Implemented PV-to-PQ bus switching logic to handle generator reactive power limits ($Q_{max}/Q_{min}$).
 - **Verification:** Verified results against PowerWorld Simulator for 99.9% accuracy.
