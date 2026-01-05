@@ -22,7 +22,7 @@ A custom-built MATLAB engine designed to simulate power flow in a 5-bus network.
 
 ### 🤝 Connect with Me
 - **LinkedIn:** [revaelpramudyayudisthira](https://www.linkedin.com/in/revaelpramudyayudisthira/)
-- **Email:** [YOUR_EMAIL_HERE]
+- **Email:** [revaelpramudya20@gmail.com]
 
 ---
 "The goal isn't just to solve for voltages, but to ensure the grid never goes dark."
